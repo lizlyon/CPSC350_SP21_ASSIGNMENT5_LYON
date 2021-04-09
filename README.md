@@ -1,6 +1,8 @@
 # CPSC350_SP21_ASSIGNMENT5_LYON
 ## Program
-* This assignment implements a doubly linked-list queue.
+* Registrar’s Office Simulation which implements a doubly linked-list queue.
+* The program will take in a command line argument(./myprog test.in) and will output various metrics.
+* Simulation starts at 0 and ends when student requests end. 
 
 ## Identifying Information
 * Name: Liz Lyon
@@ -10,7 +12,14 @@
 
 ## Source files
 * main.cpp
-* 
+* Queue.h
+* List.h
+* Simulation.h
+* Simulation.cpp
+* Student.h
+* Student.cpp
+* Window.h
+* Window.cpp
 
 ## References 
 * class notes and lectures
