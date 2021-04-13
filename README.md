@@ -3,7 +3,7 @@
 * Registrar’s Office Simulation which implements a doubly linked-list queue.
 * The program will take in a command line argument(./myprog test.in) and will output various metrics.
 * Simulation starts at 0 and ends when student requests end. 
-* ** Build Insrcutions at the bottom!**
+* ** Build Instructions at the bottom!**
 
 ## Identifying Information
 * Name: Liz Lyon
