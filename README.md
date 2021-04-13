@@ -37,6 +37,7 @@
 * https://learn.zybooks.com/zybook/CHAPMANCPSC298GermanWinter2021/chapter/2/section/12?content_resource_id=46784644
 * https://learn.zybooks.com/zybook/CHAPMANCPSC298GermanWinter2021
 * https://learn.zybooks.com/zybook/CHAPMANCPSC298GermanWinter2021/chapter/7/section/12
+* http://www.cplusplus.com/reference/istream/ws/
 * https://www.cplusplus.com/reference/iomanip/setprecision/
 
 ## Known errors
