@@ -3,6 +3,7 @@
 * Registrar’s Office Simulation which implements a doubly linked-list queue.
 * The program will take in a command line argument(./myprog test.in) and will output various metrics.
 * Simulation starts at 0 and ends when student requests end. 
+** Build Insrcutions at the bottom!**
 
 ## Identifying Information
 * Name: Liz Lyon
@@ -35,9 +36,11 @@
 * https://www.geeksforgeeks.org/when-do-we-use-initializer-list-in-c/
 * https://learn.zybooks.com/zybook/CHAPMANCPSC298GermanWinter2021
 * https://learn.zybooks.com/zybook/CHAPMANCPSC298GermanWinter2021/chapter/7/section/12
+* https://www.cplusplus.com/reference/iomanip/setprecision/
 
 ## Known errors
 * 
 
 ## Build instructions 
-* g++ *.cpp -o assigment5.exe
+* g++ *.cpp -o assigment5
+* ./assigment5 test.in
