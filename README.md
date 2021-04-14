@@ -1,7 +1,7 @@
 # CPSC350_SP21_ASSIGNMENT5_LYON
 ## Program
 * Registrar’s Office Simulation that implements a doubly linked-list queue.
-* The program will take in a command line argument(./assigment5 test.in) and will output various metrics.
+* The program will take in a command line argument(./assignment5 test.in) and will output various metrics.
 * Simulation starts at 0 and ends when the queue is empty. 
 * ** Build Instructions at the bottom!**
 
