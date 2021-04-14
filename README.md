@@ -1,6 +1,6 @@
 # CPSC350_SP21_ASSIGNMENT5_LYON
 ## Program
-* Registrar’s Office Simulation which implements a doubly linked-list queue.
+* Registrar’s Office Simulation that implements a doubly linked-list queue.
 * The program will take in a command line argument(./assigment5 test.in) and will output various metrics.
 * Simulation starts at 0 and ends when the queue is empty. 
 * ** Build Instructions at the bottom!**
@@ -39,10 +39,14 @@
 * https://learn.zybooks.com/zybook/CHAPMANCPSC298GermanWinter2021/chapter/7/section/12
 * http://www.cplusplus.com/reference/istream/ws/
 * https://www.cplusplus.com/reference/iomanip/setprecision/
+* https://www.cplusplus.com/reference/new/operator%20new/
+* https://www.tutorialspoint.com/when-to-use-new-operator-in-cplusplus-and-when-it-should-not-be-used
+* https://stackoverflow.com/questions/2425728/delete-vs-delete-operators-in-c
+* https://stackoverflow.com/questions/22604196/difference-between-return-1-return-0-return-1-and-exit
 
 ## Known errors
-* 
+* n/a
 
 ## Build instructions 
-* g++ *.cpp -o assigment5
-* ./assigment5 test.in
+* g++ *.cpp -o assignment5
+* ./assignment5 test.in
